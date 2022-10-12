@@ -1,5 +1,5 @@
 ---
-title: "ST558 Final"
+title: "ST558 Project2"
 author: "Paula and Yi"
 date: '2022-10-10'
 output: 
